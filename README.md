@@ -1,6 +1,6 @@
 ClosedCube Arduino Library for
 ClosedCube MAX30205 Human Body Temperature Sensor Breakout
-=================================================================
+==========================================================
 
 This is breakout board for [Maxim Integrated MAX30205 Human Body Temperature Sensor](https://www.maximintegrated.com/en/products/analog/sensors-and-sensor-interface/MAX30205.html) Human Body Temperature Sensor
 
