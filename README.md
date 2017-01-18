@@ -6,7 +6,7 @@ This is breakout board for [Maxim Integrated MAX30205 Human Body Temperature Sen
 
 
 [![](https://github.com/closedcube/ClosedCube_MAX30205_Arduino/blob/master/images/B016_MAX30205_Pic1.jpg)](https://www.tindie.com/stores/closedcube/)
-[![](https://github.com/closedcube/ClosedCube_MAX30205_Arduino/blob/master/images/B016_HDC30205_Pic2.jpg)](https://www.tindie.com/stores/closedcube/)
+[![](https://github.com/closedcube/ClosedCube_MAX30205_Arduino/blob/master/images/B016_MAX30205_Pic2.jpg)](https://www.tindie.com/stores/closedcube/)
 
 
 
