@@ -26,7 +26,7 @@ void setup()
 	Serial.begin(9600);
 	Serial.println("ClosedCube MAX30205 Arduino Demo");
 
-	max30205.begin(0x48);
+	max30205.begin(0x90);
 }
 
 void loop()
