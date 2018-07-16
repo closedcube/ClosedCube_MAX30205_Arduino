@@ -12,7 +12,7 @@ ClosedCube_MAX30205	KEYWORD1
 # Methods and Functions (KEYWORD2)
 ##################################################################
 
-begin KEYWORD2
+begin	KEYWORD2
 
-readTemperature KEYWORD2
-readH KEYWORD2
+readTemperature	KEYWORD2
+readH	KEYWORD2
